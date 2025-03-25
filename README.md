@@ -11,7 +11,7 @@ En este repositorio contiene material de estudio y ejercicios relacionados con o
 - **TallerHermitianUnitaryTensorCircuits**: Análisis de matrices hermitianas, unitarias y circuitos de tensores (semana 4).
 - **TallerClasicToQuantum**: Ejercicios sobre sistemas discretos de interferencia y probabilisticos (semana ).
 - **CompetenciaDobleRendija**: Analisis e informe sobre el experimento de la doble rendija (semana ).
-- **Teoría cuántica básica, Observables y Medidas**: Ejercicios sobre observables, medidas y amplitudes de transición (semana).
+- **Teoría cuántica básica, Observables y Medidas**: Ejercicios sobre observables, medidas y amplitudes de transición (semana 9/10).
 
 ## 🛠 Requisitos
 
