@@ -9,6 +9,9 @@ En este repositorio contiene material de estudio y ejercicios relacionados con o
 - **Vector_Matrix_Operations_with_NumPy**: Implementaciones de operaciones de vectores y matrices usando NumPy (semana 2).
 - **TallerEsp.Vect-ProInterno-VectPropios**: Ejercicios sobre espacios vectoriales, producto interno y vectores propios (semana 3).
 - **TallerHermitianUnitaryTensorCircuits**: Análisis de matrices hermitianas, unitarias y circuitos de tensores (semana 4).
+- **TallerClasicToQuantum**: Ejercicios sobre sistemas discretos de interferencia y probabilisticos (semana ).
+- **CompetenciaDobleRendija**: Analisis e informe sobre el experimento de la doble rendija (semana ).
+- **Teoría cuántica básica, Observables y Medidas**: Ejercicios sobre observables, medidas y amplitudes de transición (semana).
 
 ## 🛠 Requisitos
 
